@@ -11,9 +11,6 @@ from urlparse import urlparse
 from urlparse import urljoin
 from multiprocessing import Pool;
 
-
-### Test 
-
 thread_array = [];
 
 def signal_handler(signal,frame):
